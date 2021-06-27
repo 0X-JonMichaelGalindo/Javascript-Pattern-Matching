@@ -1,6 +1,6 @@
 # Javascript-Pattern-Matching
 
-Pattern matching is a concise, easy-to-read syntax for writing programs whose computation depends on the type of parameter past.
+Pattern matching is a concise, easy-to-read syntax for writing functions whose computation depends on the type of parameter past.
 
 # Example #1
 
